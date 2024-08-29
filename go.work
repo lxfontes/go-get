@@ -6,6 +6,4 @@ use (
 	./go/provider
 )
 
-replace go.wasmcloud.dev/provider v0.0.0 => ./go/provider
-
-replace go.wasmcloud.dev/component v0.0.0 => ./go/component
+replace go.wasmcloud.dev/go v0.0.0 => ./go
