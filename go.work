@@ -6,4 +6,4 @@ use (
 	./go/provider
 )
 
-replace go.wasmcloud.com/provider => ./go/provider
+replace go.wasmcloud.dev/provider => ./go/provider
