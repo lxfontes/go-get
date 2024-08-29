@@ -1,5 +1,8 @@
 go 1.22.5
 
-use ./go/provider
+use (
+	./go/component
+	./go/provider
+)
 
 replace go.wasmcloud.com/provider => ./go/provider
