@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"go.wasmcloud.dev/go/component"
-	"go.wasmcloud.dev/go/provider"
+	"go.wasmcloud.dev/component"
+	"go.wasmcloud.dev/provider"
 )
 
 func main() {

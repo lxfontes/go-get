@@ -1,3 +1,3 @@
-module go.wasmcloud.dev/go/component
+module go.wasmcloud.dev/component
 
 go 1.22.5
